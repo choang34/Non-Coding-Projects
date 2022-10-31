@@ -1,0 +1,6 @@
+(Optional) Practice Tasks Link:
+https://powerbi-course.netlify.app/
+
+
+Link to Boxoffice 2019 Data:
+https://www.boxofficemojo.com/year/world/2019/
